@@ -15,8 +15,8 @@ A small project created in ReactJS which fetches API <https://api.chucknorris.io
 
 Tasks | 17 NOV 2022 | 
 --- | --- |
-**Create React App** |
-**Fetch data successfully** |
+**Create React App** | done
+**Fetch data successfully** | done
 **Make skeleton in JSX** |
 **Category Functionality** |
 **Like and Dislike counter** |
