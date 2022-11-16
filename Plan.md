@@ -3,7 +3,7 @@
 
 **Summary**
 
-⋅⋅⋅A small project created in ReactJS which fethces API (-) and displays them 
+A small project created in ReactJS which fetches API <https://api.chucknorris.io> and displays them 
 
 **Technologies used**
 - React
